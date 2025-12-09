@@ -4,6 +4,7 @@ A lightweight Gradio app to predict diabetes stage (Non‑diabetic, Prediabetic,
 
 ---
 
+
 ## Table of Contents
 - **[Demo](#demo)**
 - **[Features](#features)**
