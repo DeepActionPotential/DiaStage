@@ -1,6 +1,7 @@
 import gradio as gr
 from utils import preprocess_input, predict_stage
 
+
 def build_ui(model, scaler):
     inputs = [
         gr.Dropdown(choices=[0, 1], label="Gender (0 = Female, 1 = Male)"),
